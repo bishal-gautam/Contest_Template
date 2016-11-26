@@ -1,4 +1,6 @@
 
+///  (LightOj 1278: Graph Coloring) 
+
 #include<bits/stdc++.h>
 #define PI acos(-1.0)
 #define nl puts("")
